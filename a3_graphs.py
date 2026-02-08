@@ -68,4 +68,4 @@ plt.tight_layout()
 plt.savefig("graphs/summary_B_comparison.png", dpi=150)
 plt.close()
 
-print("Все графики сохранены!")
+print("Все графики сохранены")
